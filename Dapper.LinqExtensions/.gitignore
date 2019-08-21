@@ -1,0 +1,8 @@
+# Ignore everything in this directory
+ * 
+# Except this file 
+!.gitignore
+/Dapper.LinqExtensions/bin/
+/Dapper.LinqExtensions/obj/
+/test/bin/
+/test/obj/
