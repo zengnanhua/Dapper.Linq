@@ -3,7 +3,7 @@
 # Except this file 
 !.gitignore
 /Dapper.LinqExtensions/.vs/
-/Dapper.LinqExtensions/bin/
-/Dapper.LinqExtensions/obj/
-/test/bin/
-/test/obj/
+/Dapper.LinqExtensions/Dapper.LinqExtensions/bin/
+/Dapper.LinqExtensions/Dapper.LinqExtensions/obj/
+/Dapper.LinqExtensions/test/bin/
+/Dapper.LinqExtensions/test/obj/
