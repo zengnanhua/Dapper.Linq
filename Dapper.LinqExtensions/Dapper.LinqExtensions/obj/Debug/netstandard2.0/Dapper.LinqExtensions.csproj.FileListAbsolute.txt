@@ -1,0 +1,9 @@
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\bin\Debug\netstandard2.0\Dapper.LinqExtensions.deps.json
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\bin\Debug\netstandard2.0\Dapper.LinqExtensions.dll
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\bin\Debug\netstandard2.0\Dapper.LinqExtensions.pdb
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\obj\Debug\netstandard2.0\Dapper.LinqExtensions.csprojAssemblyReference.cache
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\obj\Debug\netstandard2.0\Dapper.LinqExtensions.csproj.CoreCompileInputs.cache
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\obj\Debug\netstandard2.0\Dapper.LinqExtensions.AssemblyInfoInputs.cache
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\obj\Debug\netstandard2.0\Dapper.LinqExtensions.AssemblyInfo.cs
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\obj\Debug\netstandard2.0\Dapper.LinqExtensions.dll
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\Dapper.LinqExtensions\obj\Debug\netstandard2.0\Dapper.LinqExtensions.pdb

@@ -170,6 +170,10 @@ namespace Dapper.LinqExtensions.EntityFramework.Imples
             {
                 return new SqlServerProvider<T>(this);
             }
+            else if (SourceType == DatasourceType.ORACLE)
+            {
+                return new OracleProvider<T>(this);
+            }
             throw new NotImplementedException($@"暂未提供此数据库{SourceType.ToString()}类型的实现类");
             //if (SourceType == DatasourceType.MYSQL)
             //{

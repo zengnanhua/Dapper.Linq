@@ -15,7 +15,9 @@ namespace Dapper.LinqExtensions.EntityFramework.Entities
         /// C# 属性名称
         /// </summary>
         public string CSharpName { get; set; }
-
+        /// <summary>
+        /// 是否自增长类
+        /// </summary>
         public bool Identity { get; set; }
         /// <summary>
         /// 键名称

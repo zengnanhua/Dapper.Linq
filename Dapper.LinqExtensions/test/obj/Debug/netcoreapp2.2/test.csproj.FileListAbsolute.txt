@@ -1,0 +1,14 @@
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\bin\Debug\netcoreapp2.2\test.deps.json
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.json
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\bin\Debug\netcoreapp2.2\test.runtimeconfig.dev.json
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\bin\Debug\netcoreapp2.2\test.dll
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\bin\Debug\netcoreapp2.2\test.pdb
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\obj\Debug\netcoreapp2.2\test.csprojAssemblyReference.cache
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\obj\Debug\netcoreapp2.2\test.csproj.CoreCompileInputs.cache
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\obj\Debug\netcoreapp2.2\test.AssemblyInfoInputs.cache
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\obj\Debug\netcoreapp2.2\test.AssemblyInfo.cs
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\obj\Debug\netcoreapp2.2\test.dll
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\obj\Debug\netcoreapp2.2\test.pdb
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\bin\Debug\netcoreapp2.2\Dapper.LinqExtensions.dll
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\bin\Debug\netcoreapp2.2\Dapper.LinqExtensions.pdb
+D:\newsystem\Dapper.LinqExtensions\Dapper.LinqExtensions\test\obj\Debug\netcoreapp2.2\test.csproj.CopyComplete
